@@ -1,6 +1,6 @@
-Gerador de Senhas
+PySecureGen
 
-Este é um gerador de senhas simples criado em Python. Ele foi desenvolvido com o intuito de aprimorar os conhecimentos nas bibliotecas customtkinter e secrets.
+PySecureGen é um gerador de senhas simples criado em Python. Ele foi desenvolvido com o intuito de aprimorar os conhecimentos nas bibliotecas customtkinter e secrets.
 
 O projeto gera senhas de forma segura, permitindo que o usuário determine o tamanho da senha desejada. A interface gráfica (GUI) foi construída utilizando customtkinter, uma extensão moderna da biblioteca tkinter que oferece um visual mais atraente e personalizável.
 
